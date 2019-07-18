@@ -2,7 +2,7 @@
 namespace Sample.src
 {
     class MyString
-    {
+    {  
         private string s = "MyString: ";
         public MyString(string str)
         {
